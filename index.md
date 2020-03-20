@@ -6,7 +6,7 @@
 
 Here is an archive of works that Sneefee produced and made public from 2007 to 2017. This site and the archives are hosted on Github for free.
 
-The source of this archive data is Sneefee's personal website (`http: // www.sneefee.com`). The website was shut down in 2017 and the archive comes from a backup of the site by fans before the shutdown. You can still query some website records from [Waybackmachine](http://web.archive.org/web/20160330125448/http://sneefee.com/).
+The source of this archive data is Sneefee's personal website (`http://www.sneefee.com`). The website was shut down in 2017 and the archive comes from a backup of the site by fans before the shutdown. You can still query some website records from [Waybackmachine](http://web.archive.org/web/20160330125448/http://sneefee.com/).
 
 ## Who is Sneefee?
 
