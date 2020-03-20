@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+<img src="webimg/websiteheader1.jpg" alt="" width="600px" style="display: inline-block" />
 
-You can use the [editor on GitHub](https://github.com/sneefee-sneeLand-fan/sneefee-sneeLand-fan.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+[English](./index.html)/[中文](./index_cn.html)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Welcome to SneeLand
 
-### Markdown
+Here is an archive of works that Sneefee produced and made public from 2007 to 2017. This site and the archives are hosted on Github for free.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The source of this archive data is Sneefee's personal website (`http: // www.sneefee.com`). The website was shut down in 2017 and the archive comes from a backup of the site by fans before the shutdown. You can still query some website records from [Waybackmachine](http://web.archive.org/web/20160330125448/http://sneefee.com/).
+
+## Who is Sneefee?
+
+Sneefee is an artist who has drawn TMNT comics and illustrations since 2007. In 2017, he/she quited and deleted most of accounts and websites. In the past 10 years, he/she has produced many high-quality cartoons for us. The most famous is "Black and Blue".
+
+<img src="webimg/Snee-all.png" alt="" width="600px" style="display: inline-block" />
+
+## Archive directory
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+- sneefee-sneeLand-fan.github.io
+  |
+  |-- _config.yml
+  |-- index.md
+  |-- index_cn.md
+  |-- webimg
+  |-- archive
+    |
+    |-- illustration
+    |-- comic
+      |
+      |-- english
+      |-- chinese
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Get Archive
 
-### Jekyll Themes
+You can directly click the "Download" button at the top of the webpage to get the entire project. After decompression, all archives are stored in the "archive" folder. Available in Chinese and English (Chinese version is translated free of charge by Chinese lovers).
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sneefee-sneeLand-fan/sneefee-sneeLand-fan.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+If you only want to get a certain language version, please click [HERE](https://github.com/sneefee-sneeLand-fan/sneefee-sneeLand-fan.github.io) to download the corresponding compressed package.
 
-### Support or Contact
+## About
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This project is initiated and established by enthusiasts, and all services are located on free hosting websites. Thanks to Github, Twitter, and Telegram for their free services. This project is a non-profit project without any expenditure.
+
+### Other services
+
+You can find the same archive on Twitter and Telegram. Due to Twitter privacy policy, NSFW content archives are not available on Twitter.
+
+[Telegram](https://t.me/Sneefee)/[Twitter](https://twitter.com/sneefee)
+<img src="webimg/share.png" alt="" width="600px" style="display: inline-block" />
+
+## License
+
+The copyright of all works in this project belongs to the author "Snee" & "Sneefee". No one is allowed to use any commercial purpose without his/her permission. This item is for fans' collection only.
+
+Since Snee deleted his/her accounts and works in 2017, the project sponsor cannot contact him/her. If this project infringes anyone's rights, please contact by email `backblackto0#gmail.com`.
