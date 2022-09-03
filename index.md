@@ -46,7 +46,7 @@ This project is initiated and established by enthusiasts, and all services are l
 
 You can find the same archive on Twitter and Telegram. Due to Twitter privacy policy, NSFW content archives are not available on Twitter.
 
-[Telegram](https://t.me/Sneefee)/[Twitter](https://twitter.com/sneefee)
+[Telegram](https://t.me/SneeLand_Sneefee)/[Twitter](https://twitter.com/sneefee)
 <img src="webimg/share.png" alt="" width="600px" style="display: inline-block" />
 
 ## License
