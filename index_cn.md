@@ -46,7 +46,7 @@ Sneefee是自2007来绘制TMNT漫画与插画的画家，在2017年退出并删�
 
 你可以在Twitter和Telegram找到相同存档。由于Twitter隐私政策，Twitter上不提供NSFW内容存档。
 
-[Telegram](https://t.me/Sneefee)/[Twitter](https://twitter.com/sneefee)
+[Telegram](https://t.me/SneeLand_Sneefee)/[Twitter](https://twitter.com/sneefee)
 <img src="webimg/share.png" alt="" width="600px" style="display: inline-block" />
 
 ## 许可
