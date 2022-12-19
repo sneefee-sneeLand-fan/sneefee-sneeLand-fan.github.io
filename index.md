@@ -4,7 +4,7 @@
 
 ## A new site is under construction
 
-Hi👋, we are updating the Sneeland(fan's backup version) website and manily adding online reading function without download. Need several days. And the webside is more easier to share uncompressed images(We got many new archives😃).
+Hi👋, we are updating the Sneeland(fan's backup version) website and mainly adding online reading function without download. Need several days. And the webside is more easier to share uncompressed images(We got many new archives😃).
 
 By the way, the new website looks familiar...😉
 
