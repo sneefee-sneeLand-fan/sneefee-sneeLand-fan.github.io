@@ -8,7 +8,7 @@ Hi👋, we are updating the Sneeland(fan's backup version) website and manily ad
 
 By the way, the new website looks familiar...😉
 
-<img src="webimg/new-webpage-demo.png" alt="" width="600px" style="display: inline-block" />
+<img src="webimg/new-webpage-demo.jpeg" alt="" width="600px" style="display: inline-block" />
 
 ## Welcome to SneeLand
 
