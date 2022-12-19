@@ -2,6 +2,14 @@
 
 [English](./index.html)/[中文](./index_cn.html)
 
+## A new site is under construction
+
+Hi👋, we are updating the Sneeland(fan's backup version) website and manily adding online reading function without download. Need several days. And the webside is more easier to share uncompressed images(We got many new archives😃).
+
+By the way, the new website looks familiar...😉
+
+<img src="webimg/new-webpage-demo.png" alt="" width="600px" style="display: inline-block" />
+
 ## Welcome to SneeLand
 
 Here is an archive of works that Sneefee produced and made public from 2007 to 2017. This site and the archives are hosted on Github for free.
